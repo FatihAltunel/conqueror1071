@@ -1,0 +1,1 @@
+I am a student at Sakarya University Software Engineering Department. I have entered world of programming when I was in high school by learning Ardunio and Python. I am currently devoloping basic and intermediate level projects by using C++ and C#. In short, I have comprehensive knowladge of basic programming standarts.
